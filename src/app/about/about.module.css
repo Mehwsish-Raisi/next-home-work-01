@@ -1,0 +1,9 @@
+.free {
+    color:rgb(22, 22, 28);
+    background-color: burlywood;
+    text-align: center;
+    height: 60px;
+    padding-top: 10px;
+    font-size: large;
+    font-weight: bold;
+}
