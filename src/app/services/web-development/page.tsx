@@ -1,11 +1,11 @@
-import cssStyle from "./nested.module.css";
+import cssStyle from "./web.module.css";
 
-console.log(cssStyle,"CSS-Style")
+
 
 const WebDevelopment = () => {
     return(
-        <div className="nestedPage">
-        <h1 className={cssStyle.nestedPage}>This is a Nested Page</h1>
+        <div>
+        <h1 className={cssStyle.nestedPage}>This is a Web Development Page</h1>
         </div>
     )
 }

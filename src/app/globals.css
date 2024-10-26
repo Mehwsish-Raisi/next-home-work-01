@@ -11,15 +11,24 @@
   font-weight: bold;
 }
 #one {
-  color: rgb(171, 241, 8);
+  color: rgb(160, 216, 28);
+  background-color: rgb(234, 243, 60);;
   
 }
 #two {
-  color:crimson
+  color:crimson;
+  background-color: burlywood;
 }
 #three {
   color: darkgreen;
+  background-color: rgb(164, 243, 164);
 }
 #four {
   color: darkmagenta;
+  background-color: rgb(244, 129, 244);
+}
+
+#paragraph {
+  text-align: center;
+  margin-top: 20px
 }

@@ -1,9 +1,15 @@
 import cssStyle from "./contact.module.css";
-console.log(cssStyle,"CSS-Style")
+
 const MyContact =  () => {
 return (
-    <div className="design">
+    <div>
       <h1 className={cssStyle.design}> Contact us </h1>
+      <p className={cssStyle.paragraph}>
+        If you have any query, 
+         <a className={cssStyle.mail} href="mailto:raisimish@gmail.com">
+           Contact Us Via Email
+        </a>
+        </p>
     </div>
 )
 }

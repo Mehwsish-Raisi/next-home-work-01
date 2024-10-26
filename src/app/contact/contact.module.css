@@ -5,4 +5,11 @@
     padding-top: 10px;
     font-size: large;
     font-weight: bold;
+    margin-bottom: 20px;
+}
+.mail {
+    text-decoration: underline;
+}
+.paragraph {
+    text-align: center;
 }

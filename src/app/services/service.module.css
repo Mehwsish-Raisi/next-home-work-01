@@ -1,0 +1,24 @@
+.service {
+    color:rgb(22, 22, 28);
+    background-color: rgb(242, 104, 235);
+    text-align: center;
+    height: 60px;
+    padding-top: 10px;
+    font-size: large;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.heading2 {
+    background-color: rgb(242, 104, 235);
+    border: 2px solid black;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-top: 20px;
+    
+}
+.nested {
+    color: rgb(189, 39, 181);
+    text-decoration: underline;
+}
